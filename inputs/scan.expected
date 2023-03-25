@@ -1,0 +1,12 @@
+rowid: 114, row: (None, 'Steve Buscemi', 1957, None)
+rowid: 345, row: (None, 'Billy Crystal', 1948, None)
+rowid: 422, row: (None, 'John Goodman', 1952, None)
+rowid: 191717, row: (None, 'Jill Culton', None, None)
+rowid: 230032, row: (None, 'Pete Docter', 1968, None)
+rowid: 250995, row: (None, 'Ralph Eggleston', 1965, None)
+rowid: 316701, row: (None, 'Mary Gibbs', 1996, None)
+rowid: 682066, row: (None, 'Jeff Pidgeon', 1965, None)
+rowid: 798899, row: (None, 'David Silverman', 1957, None)
+rowid: 881279, row: (None, 'Lee Unkrich', 1967, None)
+read 42 pages with 11 table scans and 2 index scans
+scanned 504 total rows and returned 29 rows to the client app
